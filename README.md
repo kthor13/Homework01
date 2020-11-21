@@ -13,8 +13,8 @@ https://kthor13.github.io/Homework01/
 
 ## Completed Screenshots
 
-![completed screenshot 1] (assets\images\completed\screenshot1.png)
+![completed screenshot 1] (https://github.com/kthor13/Homework01/blob/main/assets/images/completed/screenshot1.png)
 
-![completed screenshot 2] (assets\images\completed\screenshot2.png)
+![completed screenshot 2] (https://github.com/kthor13/Homework01/blob/main/assets/images/completed/screenshot2.png)
 
-![completed screenshot 3] (assets\images\completed\screenshot3.png)
+![completed screenshot 3] (https://github.com/kthor13/Homework01/blob/main/assets/images/completed/screenshot3.png)
