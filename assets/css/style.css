@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-/* Header Section*/
+/* Header section*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -63,7 +63,7 @@ p {
     font-size: 16px;
 }
 
-/* Main Section */
+/* Main section */
 /* Consolidated to just section since all 3 are the same */
 section {
     margin-bottom: 20px;
